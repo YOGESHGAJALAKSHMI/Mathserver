@@ -42,7 +42,8 @@ Render the result to the HTML template.
 Publish the website in Localhost.
 
 ## PROGRAM:
-```<html>
+```
+<html>
     <head>
         <title>Simple Webpage</title>
     
