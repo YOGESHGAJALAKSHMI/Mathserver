@@ -101,7 +101,7 @@ urlpatterns = [path('', views.calculate_rate, name='calculate_rate'),]
 
 
 
-## OUTPUT - WEBPAGE:c:\Users\acer\Pictures\Screenshots\Screenshot (26).png
+## OUTPUT - WEBPAGE: <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/4a9d2eaf-ad46-4307-9b29-45a7afc9dc7e" />
 
 
 ## RESULT:
