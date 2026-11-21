@@ -97,7 +97,8 @@ urlpatterns = [path('', views.calculate_rate, name='calculate_rate'),]
 
 
 
-## OUTPUT - SERVER SIDE:c:\Users\acer\Pictures\Screenshots\Screenshot (25).png
+## OUTPUT - SERVER SIDE: ![Uploading Screenshot (26).png…]()
+
 
 
 ## OUTPUT - WEBPAGE:c:\Users\acer\Pictures\Screenshots\Screenshot (26).png
