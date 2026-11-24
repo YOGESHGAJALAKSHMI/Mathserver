@@ -95,7 +95,7 @@ from rateapp import views
 urlpatterns = [path('', views.calculate_rate, name='calculate_rate'),]
 ```
 
-
+```
 
 ## OUTPUT - SERVER SIDE: ![Uploading Screenshot (26).png…]()
 
