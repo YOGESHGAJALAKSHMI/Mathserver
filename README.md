@@ -95,14 +95,17 @@ from rateapp import views
 urlpatterns = [path('', views.calculate_rate, name='calculate_rate'),]
 ```
 
-```
-
-## OUTPUT - SERVER SIDE: ![Uploading Screenshot (26).png…]()
 
 
+## OUTPUT - SERVER SIDE:
+![alt text](<Screenshot (29).png>)
 
-## OUTPUT - WEBPAGE: <img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/4a9d2eaf-ad46-4307-9b29-45a7afc9dc7e" />
+
+
+## OUTPUT - WEBPAGE: 
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/4a9d2eaf-ad46-4307-9b29-45a7afc9dc7e" />
 
 
 ## RESULT:
 The the web page to calculate Churn Rate using server-side scripts is created successfully.
+        ``
